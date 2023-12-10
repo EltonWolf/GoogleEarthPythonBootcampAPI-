@@ -27,7 +27,9 @@ The projects in this repository cover a wide range of topics, including:
 
 Project 1: Example Project
 Project 2: Another Project
+
 ...
+
 Feel free to contribute by adding your own projects or improving existing ones.
 
 Contributing
